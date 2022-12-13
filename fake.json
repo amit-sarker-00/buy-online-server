@@ -1,0 +1,26 @@
+[
+  {
+    "name": "mobile",
+    "price": "500",
+    "image": "https://i0.wp.com/www.mobilebd.co/wp-content/uploads/2021/07/Xiaomi-Mi-11-Lite-Official-Image--500x500.png",
+    "status": "unsold"
+  },
+  {
+    "name": "Television",
+    "price": "400",
+    "image": "https://diamu.com.bd/wp-content/uploads/2021/12/Mi-TV-P1-43-inch-Android-Television.jpg",
+    "status": "unsold"
+  },
+  {
+    "name": "Bike",
+    "price": "800",
+    "image": "https://imgd.aeplcdn.com/310x174/n/cw/ec/130725/k300-r-right-front-three-quarter.gif?isig=0",
+    "status": "sold"
+  },
+  {
+    "name": "airpod",
+    "price": "350",
+    "image": "https://www.reliancedigital.in/medias/Apple-Airpods-Pro-493177748-i-2-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0MDgyM3xpbWFnZS9qcGVnfGltYWdlcy9oOWUvaGYzLzk4OTA3NTE0Nzk4MzguanBnfDYyNDBlYzc0MmNlOWNkZjUxOTZmOWI0M2M3MmY5ZWIxYTQxMjUwNTMxZDZhODczMTk1NDgwMjczNmZkNTA2OGY",
+    "status": "unsold"
+  }
+]
